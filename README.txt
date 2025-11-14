@@ -1,4 +1,4 @@
-Smart AI Face Swap - Ready-to-deploy package
+Smart AI NewU - Ready-to-deploy package
 ===========================================
 
 Included:
